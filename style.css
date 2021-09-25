@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding:0px;
+  }
+  body{
+    background-color:darkslategray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+  }
+  h1,h2{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bolder;
+    color:ghostwhite;
+    padding-bottom: 20px;
+  }
+  #p1{
+    font-size: 30px;
+  }
+  
+  .intro{
+    margin: 10px;
+    padding-top: 50px;
+    padding-right: 400px;
+    padding-bottom: 400px;
+    padding-left: 400px;
+    text-align: center;
+    height: 80px;
+    background-color: cornflowerblue;
+    background-image: url("images/cost.jpg");
+    background-repeat: no-repeat;
+    background-size: 1600px;
+    border: 20px;
+    border-radius: 20px;
+  }
