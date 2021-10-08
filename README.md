@@ -1,6 +1,4 @@
-### Hi there 👋 I am faiso Abdirisak
-###its assignment project
-written by faiso
+
 
 <!--
 **faisoabdirisak/faisoabdirisak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
