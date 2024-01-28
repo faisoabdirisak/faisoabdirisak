@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native, Spring Boot, .Net**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-eight-sigma-93.vercel.app/](https://my-portfolio-eight-sigma-93.vercel.app/)
+- 👨‍💻 All of my projects are available at [)
 
 - 💬 Ask me about **react, angular, django**
 
